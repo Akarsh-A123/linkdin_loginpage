@@ -1,0 +1,26 @@
+.navbar-brand{
+    font-weight: 600;
+}
+ul{
+    font-size: 20px;
+}
+.container h1{
+    color: orange;
+    font-size: 60px;
+    font-weight: 100;
+}
+input{
+    height: 50px;
+}
+img{
+    position: absolute;
+    bottom: 40%;
+    width: 25%;
+}
+i{
+    position: relative;
+    left: 20px;
+}
+ul li{
+    margin-right: 20px;
+}
